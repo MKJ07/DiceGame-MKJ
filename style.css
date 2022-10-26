@@ -91,7 +91,8 @@ p {
     }
     #footer {
     background-color: rgb(128 33 33);
-    height: 5rem;
+    height: 15rem;
+    margin-top: 21rem;
     text-align: center;
     padding: 1rem 0 0;
     
