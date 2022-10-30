@@ -30,7 +30,7 @@ p {
 }
 #footer {
     background-color: rgb(128 33 33);
-    height: 4rem;
+    height: 5rem;
     text-align: center;
     padding: 1rem 0 0;
     
@@ -45,7 +45,7 @@ p {
   .social-img {
     color: grey;
   }
-@media (max-width: 766px) and (min-width: 580px) {
+@media (max-width: 1440px) and (min-width: 580px) {
     
   h1 {
     font-size: 2.5rem;
@@ -60,6 +60,13 @@ p {
   }
   .col-2 img {
     width: 70%;
+  }
+  #footer {
+    background-color: rgb(128 33 33);
+    height: 5rem;
+    margin-top: 16rem;
+    padding: 1rem 0 0;
+    
   }
 }
 @media (max-width:577px) {
@@ -91,9 +98,8 @@ p {
     }
     #footer {
     background-color: rgb(128 33 33);
-    height: 15rem;
-    margin-top: 21rem;
-    text-align: center;
+    height: 5rem;
+    margin-top: 26rem;
     padding: 1rem 0 0;
     
   }
@@ -109,3 +115,4 @@ p {
   }
     
 }
+
